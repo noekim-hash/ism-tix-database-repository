@@ -22,4 +22,4 @@ It focuses on the design and implementation of a relational database for an onli
 3. Run the example queries to explore the data model
 
 ## Author
-[Your Name]
+Kim Dushime
