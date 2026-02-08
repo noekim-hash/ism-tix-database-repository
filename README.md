@@ -15,6 +15,7 @@ It focuses on the design and implementation of a relational database for an onli
 ## Technologies
 - MySQL
 - SQL
+- Phpmyadmin
 
 ## How to Use
 1. Import the SQL file into a MySQL environment
@@ -22,4 +23,4 @@ It focuses on the design and implementation of a relational database for an onli
 3. Run the example queries to explore the data model
 
 ## Author
-Kim Dushime
+Kim2082
